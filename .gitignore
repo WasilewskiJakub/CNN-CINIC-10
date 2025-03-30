@@ -2,7 +2,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 *.pkl
-*.pt
+# *.pt
 .env
 .vscode/
 .DS_Store
